@@ -1,0 +1,12 @@
+{
+  "name": "kirby-redirects",
+  "description": "Simple kirby redirects",
+  "author": "Jon Gacnik <https://github.com/jongacnik>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jongacnik/kirby-redirects"
+  },
+  "version": "1.0.0",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}

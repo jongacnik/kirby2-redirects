@@ -1,0 +1,17 @@
+type: group
+fields:
+  redirectSettings:
+    label: Redirect Settings
+    type: headline
+    numbered: false
+  redirects:
+    label: Redirects
+    type: structure
+    style: table
+    fields:
+      oldurl:
+        label: Old URL
+        type: text
+      newurl:
+        label: New URL
+        type: text
